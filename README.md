@@ -7,6 +7,4 @@
 * 🦸🏻‍♂️ Хочу улучшить навыки который уже есть с интересными проекты
 
 ## Мой стэк:
-![alt text](https://www.p92.hu/binaries/content/gallery/p92website/technologies/htmlcssjs-details.png) 
-![alt text](https://www.nicepng.com/png/detail/222-2224705_react-js-logo.png)
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" width="100" height="100">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="100">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="100" width="80" height="90"> <img src="https://logospng.org/download/react/logo-react-256.png" width="100" width="80" height="90"> <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-1174965.png" width="100" width="80" height="90">
